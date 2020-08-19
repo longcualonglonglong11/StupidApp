@@ -1,1 +1,1 @@
-# StupidApp
+# A stupidApp
