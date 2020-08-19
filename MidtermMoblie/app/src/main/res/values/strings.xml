@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="emergency_level">
+        <item>High</item>
+        <item>Moderate</item>
+        <item>Low</item>
+    </string-array>
+    <string name="app_name">Mid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFvZGlodXluaCIsImEiOiJja2R2bXZhYjQxaWo2MnFuOWtzdDYxOWVrIn0.0nsg1x8R2fblkN5Evv0vnQ</string>
+    <string name="YOUR_POSITON_STRING">YOUR POSITION</string>
+    <string name="route">routes</string>
+    <string name="geometry">geometry</string>
+    <string name="colorPolyLine">#fe8a71</string>
+    <string name="ACCESS_TOKEN">\?access_token=pk.eyJ1IjoiYmFvZGlodXluaCIsImEiOiJja2R2bXppcmcwbTg5MnhwaWRuamlydzQ4In0.a639pSpb46FG8W-ByrCx3g</string>
+    <string name="MAPBOX_URL">https://api.mapbox.com/directions/v5/mapbox/driving/</string>
+</resources>
